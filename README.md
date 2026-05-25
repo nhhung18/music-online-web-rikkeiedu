@@ -8,7 +8,7 @@ Music Online là hệ thống nghe nhạc trực tuyến được phát triển 
 - Spring Data JPA
 - Spring Security
 - MySQL
-- Maven
+- Gradle
 
 ## Công cụ
 - Github
